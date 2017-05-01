@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 57
+*.db
+seqtest
+bd*.jpg
+apps.xml
+remoku2.prj
+touchtest.html
+
+END
